@@ -911,6 +911,7 @@
 		0A87D5762177C25900BD0C4C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				INFOPLIST_FILE = "watchOSSwiftIntegration Extension/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PRODUCT_BUNDLE_IDENTIFIER_PREFIX).iOSSwiftIntegration.watchkitapp.watchkitextension";
@@ -926,6 +927,7 @@
 		0A87D5772177C25900BD0C4C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				INFOPLIST_FILE = "watchOSSwiftIntegration Extension/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PRODUCT_BUNDLE_IDENTIFIER_PREFIX).iOSSwiftIntegration.watchkitapp.watchkitextension";
