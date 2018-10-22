@@ -3,3 +3,6 @@
 
 #include "Module-Debug.xcconfig"
 #include "App-Shared.xcconfig"
+
+// A list of compilation conditions to enable for conditional compilation expressions.
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG
